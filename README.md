@@ -2,6 +2,11 @@
 
 # Building a Game Boy Color Emulator
 
+## Acknowledgements
+This project was brought on by Matt Bruv's gameboy-crush emulator project. The information below is his with the code removed. This is my attempt at learning how to build one using his knowledge as a guide but not his code. If anyone else is curious please check the original (https://mattbruv.github.io/gameboy-crust/).
+
+Wish me luck
+
 ## Theory
 
 The Game Boy, like all old video game consoles, is essentially a simple computer. The video game cartridges are the programs that run on it and tell it which instructions to execute. An emulator works by virtually representing the physical hardware of the guest machine. To create a Game Boy emulator, you need to simulate how the real hardware functions.
